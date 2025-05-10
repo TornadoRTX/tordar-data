@@ -1,4 +1,4 @@
-# Supercell WX/TorDar Databases
+# DB's for Supercell WX and TorDar
 
 The dBase database files in this folder are sourced from the National Weather Service, and contain definitions for counties and zones that are used in various products.
 
